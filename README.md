@@ -8,12 +8,6 @@ Prerequisites
 Ensure you have the following installed:
 Python (3.8 or later)
 
-Clone the Repository
-```sh
- git clone <repository_url>
- cd <project_directory>
-```
-
 Create a Virtual Environment 
 ```sh
 python -m venv venv 
